@@ -1,0 +1,4 @@
+avinash:98
+nihar:99
+ayush:80
+vihan:90
